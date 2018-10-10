@@ -8,5 +8,6 @@ Data mining repo
 1. 32/35 [Did not explain about the features and their types(-3)]
 2. 32/35 [Did not explain about the features and their types(-3)]
 3. 22/30 [3.2 Petal Length explains greatest amount of data(-5). 3.3 Apart from Lot Area, there are many features that have outliers (-3)]
-### Assignment3 [95/100]
+### Assignment3 [93/100]
 - Q1: [-5, for the question asking similarities or differences in the imputed values from mean and median, you should have taken this specific case and compared either the values directly or using boxplots]
+- -2 [Sampling should be performed on the imputed data frame]
