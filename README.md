@@ -11,3 +11,7 @@ Data mining repo
 ### Assignment3 [93/100]
 - Q1: [-5, for the question asking similarities or differences in the imputed values from mean and median, you should have taken this specific case and compared either the values directly or using boxplots]
 - -2 [Sampling should be performed on the imputed data frame]
+
+### Assignment4 [87/100]
+1. 44/50 [(-3) "np.logical_and" will not give the correct fraction (Think about case where both actual and predict classes are 0).(-3) make_gaussian_quantiles is not the best model. Probably make-blobs is better than others]
+2. 43/50 [(-2) "np.logical_and" will not give the correct fraction. (-3) Did not use single and complete linkage as given in question.(-2) You could have calculated fraction for each n_clusters combination here as well to understand how the accuracy got affected by the linkage type and n_clusters value.]
