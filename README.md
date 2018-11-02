@@ -18,4 +18,15 @@ Data mining repo
 ### Assignment4 [90/100]
 - 1.1.1(-2, didn't mention final answer after range calculation)
 - 2.4(-8, single plot that illustrates the value of PM column over time for each of the four cities, your plot doesn't give any visualizations and you haven't considered the timeline, X axis should be date/year)
-- use markdown on your cells instead of comments 
+- use markdown on your cells instead of comments
+### Midterm [95/100]
+1. 10/10
+2. 10/10
+3. 10/10
+4. 10/10
+5. 10/10
+6. 10/10
+7. 5/10 [(-2) Need more explanation on binary label distribution. (-3) Did not mention what is the expected TP/TN here]
+8. 10/10
+9. 10/10
+10. 10/10 
