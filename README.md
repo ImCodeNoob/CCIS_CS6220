@@ -33,3 +33,6 @@ Data mining repo
 
 ### Quiz 1
 - 2.5/10
+
+### Quiz2 [6/10]
+
