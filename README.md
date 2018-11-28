@@ -35,4 +35,8 @@ Data mining repo
 - 2.5/10
 
 ### Quiz2 [6/10]
+### Project proposal [95/10]
 
+This is a good proposal guys. Your final portion of the document (where you discuss how this tool might be used) can benefit from more details, however. In particular, I think there is a lot more you can provide your users with. For instance, in addition to getting a prediction from your model telling them if their application will be approved or denied, you could also provide your users with a more detailed breakdown of what features contributed to that prediction the most. That way they can actually act upon that information and improve their application so as to increase their chances.
+
+TOTAL 95/100
